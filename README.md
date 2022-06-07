@@ -40,3 +40,8 @@
 
 <hr>
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jworamon&show_icons=true&locale=en&layout=compact" alt="jworamon" /></p>
+
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jworamon&show_icons=true&locale=en" alt="jworamon" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jworamon&" alt="jworamon" /></p>
