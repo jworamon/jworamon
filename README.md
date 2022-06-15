@@ -4,8 +4,6 @@
 <ul>
   <li> 😄 Pronouns: she/her/hers </li>
   <li> 📫 Reach me: 
-    <a href=mailto:jworamon@gmail.com>Email</a>
-    <span>or</span>
     <a href=https://www.linkedin.com/in/woramon-jamjod>LinkedIn</a>
   </li>
   <li> ⚡ Fun fact: I love penguins 🐧 and powerlifting 🏋🏻‍♀️
